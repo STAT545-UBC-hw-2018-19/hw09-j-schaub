@@ -32,14 +32,14 @@ So trying to re-download by cleaning and rebuilding will re-download until you g
 
 The following files are relevant for the reviewer:
 
-- The [Makefile](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/Makefile): Contains the original and added rules to produce a `letters.tsv` file from `first_letter.R`, a `letters.png` of the `letters.tsv` table, and an `final_report.html` file from `final_report.Rmd`.
+- The [Makefile](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/Makefile): Contains the original and added rules to produce a `letters.tsv` file from `first_letter.R`, a plot in `letters.png` of the `letters.tsv` data, and an `final_report.html` file from `final_report.Rmd`.
 
-- The [R Script](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/first_letter.R): `first_letter.R`, which contains the code to determine the frequency of the first letter of each word.
+- The [R Script](https://github.com/STAT545-UBC-stKudents/hw09-j-schaub/blob/master/first_letter.R): `first_letter.R`, which contains the code to determine the frequency of the first letter of each word.
 
 - The [.tsv File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/letters.tsv): `letters.tsv`, which contains the information in a table format that was extracted from `word_length.R`, produced by the `Makefile`.
 
 - The [R Markdown File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/final_report.Rmd): `final_report.Rmd`, which contains the code to display the table from the `letters.tsv` file as `letters.png`.
 
-- The [.png File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/letters.png): Contains the table produced by the `final_report.Rmd` from the `letters.tsv` file.
+- The [.png File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/letters.png): `letters.png`, which contains the plot produced by the `Makefile` from the `letters.tsv` file.
 
 - The [HTML File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/final_report.html): Contains `final_report.Rmd` as `final_report.html`.
