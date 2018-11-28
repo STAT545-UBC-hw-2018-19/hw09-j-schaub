@@ -1,11 +1,11 @@
-#STAT547M: Homework 9 - Automating Data-Analysis Pipelines
+# STAT547M: Homework 9 - Automating Data-Analysis Pipelines
 
-##Overview
+## Overview
 This repository contains changes to Shaun Jackman and Jenny Bryan's `make-activity`, which was built to follow the *Automating Data-Analysis Pipelines* activity. The original files for the `make-activity` repo can be found [here](https://github.com/STAT545-UBC/make-activity) and their tutorial can be found [here](http://stat545.com/automation04_make-activity.html).
 
 The changes to the original files are done to satisfy the requirements for Homework 9 for UBC's STAT 547M course. For more information, please see the homework [instructions](http://stat545.com/Classroom/assignments/hw09/hw09.html)
 
-##My Specific Changes
+## My Specific Changes
 
 For the homework, I have completed the following tasks:
 
@@ -43,8 +43,3 @@ The following files are relevant for the reviewer:
 - The [.png File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/letters.png): Contains the table produced by the `final_report.Rmd` from the `letters.tsv` file.
 
 - The [HTML File](https://github.com/STAT545-UBC-students/hw09-j-schaub/blob/master/final_report.html): Contains `final_report.Rmd` as `final_report.html`.
-
-
-
-
-
